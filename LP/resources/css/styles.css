@@ -279,10 +279,13 @@ ul{
     .header{
         height: 100vh;
     }
+    .content{
+        margin-top: 100px;
+    }
 } 
 @media only screen and (max-width:768px){
     .content{
-        margin-top:550px;
+        margin-top:600px;
     }
     .downloadbtn{
         width: 100%;
@@ -295,7 +298,7 @@ ul{
 } 
 @media only screen and (max-width:558px){
     .content{
-        margin-top:550px;
+        margin-top:600px;
     }
     #appw{
         display: none;
